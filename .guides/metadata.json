@@ -1,0 +1,133 @@
+{
+ "sections": [
+  {
+   "id": "ce778c28-968-37-38b1-5b67853b5c24",
+   "title": "Assignment instructions",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assignment-instructions-ce77.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8ca5ea47-3ade-598a-5557-8c40cac6f9dd",
+   "title": "Bubble Sort explained",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bubble-Sort-explained-8ca5.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c287af98-d733-3607-b10c-4fa5d5bfe2bb",
+   "title": "Overview",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview-c287.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d35f7226-bdd4-6fec-49f-a3236ced82a4",
+   "title": "Video Tutorial",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Video-Tutorial-d35f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ab122343-db6-8515-2afa-cd763326763",
+   "title": "Analysis",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Analysis-ab12.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "800db253-1684-dbc1-8b39-c2ad39bac6a4",
+   "title": "Example",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Example-800d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ad6fa866-eaad-3ce9-262c-42eb75ee24f6",
+   "title": "Implementation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Implementation-ad6f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "15a743ee-32be-fc7-23d4-31c7d39d6418",
+   "title": "In practice",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/In-practice-15a7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "89397bc8-21ea-6795-87f8-33e94778843b",
+   "title": "Test your code",
+   "files": [
+    {
+     "path": "Bubble.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-your-code-8939.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9882f6cb-4987-2174-0896-bfbe3fa8de4b",
+   "title": "Questions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-9882.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

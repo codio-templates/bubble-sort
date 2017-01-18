@@ -1,0 +1,17 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Node version": "node --version"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Project Index (static)": "https://{{domain}}/{{index}}",
+        "Current File (static)": "https://{{domain}}/{{filepath}}",
+        "Box URL": "http://{{domain3000}}/",
+        "Box URL SSL": "https://{{domain3000}}/"
+  },
+  "debugger": [{"type":"JAVA","command":"-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105","before":"javac -g -d . Bubble.java && java -agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105 Bubble 1 4 6 2","single":true,"path":"Bubble.java","args":"1 4 6 2","uuid":"f8286476-eace-9629-08ef-2ef08988ef2d","name":"Bubble"}]
+}

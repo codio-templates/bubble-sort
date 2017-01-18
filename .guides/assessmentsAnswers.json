@@ -1,0 +1,71 @@
+[
+ {
+  "taskId": "test-2914594016",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "",
+    "timestamp": 1484754197499
+   },
+   {
+    "code": 0,
+    "output": "",
+    "timestamp": 1478779895852
+   },
+   {
+    "code": 0,
+    "output": "",
+    "timestamp": 1478779726217
+   },
+   {
+    "code": 1,
+    "output": "Bubble.java:13: error: variable intArray might not have been initialized\n      for(int i=0; i < intArray.length; i++) {\n                       ^\n1 error",
+    "timestamp": 1478779588937,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-490403438",
+  "points": 0,
+  "state": {
+   "active": [
+    "40135208-177d-f5de-1d24-74dbfa37583b"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "40135208-177d-f5de-1d24-74dbfa37583b"
+    ],
+    "right": [
+     "4ff1586a-cbbd-c6ea-85a5-adb87d154775",
+     "8d6f87c8-8161-760d-7ecf-f4bac2cabc09",
+     "1b2c26a8-972d-7919-5004-4c2134787471"
+    ],
+    "timestamp": 1484754153160
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-269499423",
+  "points": 1,
+  "state": {
+   "active": [
+    "f4446b6b-e4be-3632-c2ab-c0d47a90922b"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "f4446b6b-e4be-3632-c2ab-c0d47a90922b"
+    ],
+    "right": [
+     "f4446b6b-e4be-3632-c2ab-c0d47a90922b"
+    ],
+    "timestamp": 1484754163579
+   }
+  ]
+ }
+]

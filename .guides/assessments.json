@@ -1,0 +1,86 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-2914594016",
+  "source": {
+   "name": "Bubble Sort Auto Test",
+   "showName": true,
+   "instructions": "You java class should be called 'bubble' as instructed in the opening page. Once you are ready to check that your sort algorithm works, please press the button below.\n",
+   "command": "bash .guides/tests/bubble.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-490403438",
+  "source": {
+   "name": "Performance",
+   "showName": false,
+   "instructions": "Which of the following do not show $O(n\\log{}n)$ average performance?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "4ff1586a-cbbd-c6ea-85a5-adb87d154775",
+     "correct": true,
+     "answer": "Quick sort"
+    },
+    {
+     "_id": "a0e21422-6af2-1e1c-643e-e6c7b86442d1",
+     "correct": false,
+     "answer": "Merge sort"
+    },
+    {
+     "_id": "8d6f87c8-8161-760d-7ecf-f4bac2cabc09",
+     "correct": true,
+     "answer": "Insertion Sort"
+    },
+    {
+     "_id": "40135208-177d-f5de-1d24-74dbfa37583b",
+     "correct": false,
+     "answer": "Heap sort"
+    },
+    {
+     "_id": "1b2c26a8-972d-7919-5004-4c2134787471",
+     "correct": true,
+     "answer": "Selection sort"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-269499423",
+  "source": {
+   "name": "Slowest",
+   "showName": false,
+   "instructions": "Which of the following has **worst case** performance?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "f4446b6b-e4be-3632-c2ab-c0d47a90922b",
+     "correct": true,
+     "answer": "Quicksort"
+    },
+    {
+     "_id": "bc5703c2-8dd4-224a-c27f-2d5ec665c085",
+     "correct": false,
+     "answer": "Merge sort"
+    },
+    {
+     "_id": "58d15c3a-e153-15a6-aa48-fdebc99477dc",
+     "correct": false,
+     "answer": "Heap sort"
+    },
+    {
+     "_id": "3eeb772b-c13b-3a42-c9f9-1b92488237f1",
+     "correct": false,
+     "answer": "Selection sort"
+    }
+   ]
+  }
+ }
+]
