@@ -1,0 +1,70 @@
+{
+ "name": "bubble-sort",
+ "children": [
+  {
+   "title": "Assignment instructions",
+   "id": "ce778c28-968-37-38b1-5b67853b5c24",
+   "pageId": "ce778c28-968-37-38b1-5b67853b5c24",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Bubble Sort explained",
+   "id": "8ca5ea47-3ade-598a-5557-8c40cac6f9dd",
+   "pageId": "8ca5ea47-3ade-598a-5557-8c40cac6f9dd",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Overview",
+     "id": "c287af98-d733-3607-b10c-4fa5d5bfe2bb",
+     "pageId": "c287af98-d733-3607-b10c-4fa5d5bfe2bb",
+     "type": "page"
+    },
+    {
+     "title": "Video Tutorial",
+     "id": "d35f7226-bdd4-6fec-49f-a3236ced82a4",
+     "pageId": "d35f7226-bdd4-6fec-49f-a3236ced82a4",
+     "type": "page"
+    },
+    {
+     "title": "Analysis",
+     "id": "ab122343-db6-8515-2afa-cd763326763",
+     "pageId": "ab122343-db6-8515-2afa-cd763326763",
+     "type": "page"
+    },
+    {
+     "title": "Example",
+     "id": "800db253-1684-dbc1-8b39-c2ad39bac6a4",
+     "pageId": "800db253-1684-dbc1-8b39-c2ad39bac6a4",
+     "type": "page"
+    },
+    {
+     "title": "Implementation",
+     "id": "ad6fa866-eaad-3ce9-262c-42eb75ee24f6",
+     "pageId": "ad6fa866-eaad-3ce9-262c-42eb75ee24f6",
+     "type": "page"
+    },
+    {
+     "title": "In practice",
+     "id": "15a743ee-32be-fc7-23d4-31c7d39d6418",
+     "pageId": "15a743ee-32be-fc7-23d4-31c7d39d6418",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Test your code",
+   "id": "89397bc8-21ea-6795-87f8-33e94778843b",
+   "pageId": "89397bc8-21ea-6795-87f8-33e94778843b",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Questions",
+   "id": "9882f6cb-4987-2174-0896-bfbe3fa8de4b",
+   "pageId": "9882f6cb-4987-2174-0896-bfbe3fa8de4b",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
